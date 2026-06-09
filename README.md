@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá, eu sou Ivan Jacques 👋</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ Desenvolvedor Full Stack | React • Vue • Node.js
 </h3>
 
 <p align="center">
-Crio sistemas web, SaaS, automações, dashboards e experiências interativas em 3D.
+Criando SaaS, sistemas web, automações, dashboards e experiências interativas em 3D 🚀
 </p>
 
 ---
@@ -14,22 +13,57 @@ Crio sistemas web, SaaS, automações, dashboards e experiências interativas em
 ## 🚀 Visão rápida
 
 <table>
-  <tr>
-    <td><strong>Front-End</strong></td>
-    <td>React, Vue, JavaScript, TypeScript, Bootstrap, Tailwind, UI/UX</td>
-  </tr>
-  <tr>
-    <td><strong>Back-End</strong></td>
-    <td>Node.js, Express, APIs REST, Prisma, MySQL, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Experiências</strong></td>
-    <td>SaaS, CRM, sistemas educacionais, automações, dashboards e 3D</td>
-  </tr>
-  <tr>
-    <td><strong>Extras</strong></td>
-    <td>Three.js, SVG interativo, Python, Puppeteer, Docker, Linux, VPS</td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 💻 Front-End
+- React.js
+- Vue.js
+- TypeScript
+- JavaScript
+- Bootstrap / Tailwind
+- UI/UX
+- Responsividade
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Back-End
+- Node.js
+- Express.js
+- APIs REST
+- Prisma ORM
+- MySQL / PostgreSQL
+- Firebase
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Especialidades
+- SaaS
+- CRM
+- Dashboards
+- Automações
+- Integrações com IA
+
+</td>
+
+<td width="50%">
+
+### 🚀 Extras
+- Three.js
+- SVG Interativo
+- Python
+- Puppeteer
+- Docker
+- Linux / VPS
+
+</td>
+</tr>
 </table>
 
 ---
@@ -37,97 +71,141 @@ Crio sistemas web, SaaS, automações, dashboards e experiências interativas em
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,typescript,javascript,html,css,bootstrap,tailwind,threejs,python,mysql,postgres,docker,git,linux" />
+
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,typescript,javascript,html,css,bootstrap,tailwind,threejs,python,mysql,postgres,docker,git,linux" />
+
 </p>
+
 
 ---
 
-## 📌 Projetos e experiências
+## 📌 Projetos em destaque
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3>🏫 SaaS Educacional</h3>
-      <p>Sistema completo para escolas de idiomas, com gestão de alunos, professores, cursos, materiais, chamadas, agenda e financeiro.</p>
-      <strong>Stack:</strong><br/>
-      React • Node.js • MySQL
-    </td>
-    <td width="33%">
-      <h3>🌾 Termometria e Silos 3D</h3>
-      <p>Interfaces para visualização de sensores, estruturas agrícolas, SVG dinâmico, dashboards e modelos 3D interativos.</p>
-      <strong>Stack:</strong><br/>
-      React • Vue • Three.js • SVG
-    </td>
-    <td width="33%">
-      <h3>🤖 Automações e IA</h3>
-      <p>Automação de processos, análise de dados, integrações com APIs, scraping e soluções inteligentes para sistemas reais.</p>
-      <strong>Stack:</strong><br/>
-      Node.js • Python • Puppeteer • APIs
-    </td>
-  </tr>
+<tr>
+
+<td width="33%">
+
+### 🏫 SaaS Educacional
+
+Sistema completo para escolas.
+
+✔ Alunos  
+✔ Professores  
+✔ Cursos  
+✔ Financeiro  
+✔ Agenda  
+
+**Stack**
+
+React • Node.js • MySQL
+
+</td>
+
+
+<td width="33%">
+
+### 🌾 Termometria 3D
+
+Sistema industrial com sensores.
+
+✔ SVG Dinâmico  
+✔ Modelo 3D  
+✔ Dashboards  
+✔ Dados em tempo real  
+
+**Stack**
+
+Vue • React • Three.js
+
+</td>
+
+
+<td width="33%">
+
+### 🤖 Automações
+
+Soluções inteligentes.
+
+✔ Web Scraping  
+✔ APIs  
+✔ IA  
+✔ Processos automáticos  
+
+**Stack**
+
+Node • Python • Puppeteer
+
+</td>
+
+</tr>
 </table>
+
 
 ---
 
-## 🧩 Etapas que costumo atuar nos projetos
+## 🔄 Fluxo de desenvolvimento
 
 <table>
-  <tr>
-    <td align="center">1️⃣</td>
-    <td><strong>Análise</strong><br/>Entendimento da regra de negócio e necessidades do sistema.</td>
-  </tr>
-  <tr>
-    <td align="center">2️⃣</td>
-    <td><strong>Interface</strong><br/>Criação de telas modernas, responsivas e fáceis de usar.</td>
-  </tr>
-  <tr>
-    <td align="center">3️⃣</td>
-    <td><strong>Desenvolvimento</strong><br/>Implementação do front-end, back-end, APIs e banco de dados.</td>
-  </tr>
-  <tr>
-    <td align="center">4️⃣</td>
-    <td><strong>Integrações</strong><br/>Conexão com serviços externos, automações e dados reais.</td>
-  </tr>
-  <tr>
-    <td align="center">5️⃣</td>
-    <td><strong>Entrega</strong><br/>Deploy, ajustes finais, melhorias e evolução contínua.</td>
-  </tr>
+
+<tr>
+<td>🔎 <b>Análise</b></td>
+<td>Entendimento da regra de negócio e arquitetura</td>
+</tr>
+
+<tr>
+<td>🎨 <b>Interface</b></td>
+<td>Criação de telas modernas e responsivas</td>
+</tr>
+
+<tr>
+<td>💻 <b>Desenvolvimento</b></td>
+<td>Front-End, Back-End, Banco de dados e APIs</td>
+</tr>
+
+<tr>
+<td>🚀 <b>Deploy</b></td>
+<td>Publicação, servidores e melhorias contínuas</td>
+</tr>
+
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
-## 🏆 Destaques
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ivan-Jacques-da-Silva&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 
 ---
 
-## 📫 Contato
+## 🏆 Conquistas
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivan-jacques/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ivan%20Jacques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ivan-Jacques-da-Silva&theme=tokyonight&no-frame=true&row=1"/>
+
 </p>
+
 
 ---
 
 <p align="center">
-  Transformando ideias em sistemas reais.
+
+💡 Transformando ideias em sistemas reais.
+
 </p>
-```
