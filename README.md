@@ -12,8 +12,9 @@ Desenvolvimento de SaaS, sistemas web, automações, dashboards e soluções int
 
 # 🚀 Tecnologias e Experiência
 
-<table width="100%">
+<table>
 <tr>
+
 
 <td width="25%">
 
