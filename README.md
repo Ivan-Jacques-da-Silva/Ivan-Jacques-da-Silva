@@ -1,147 +1,97 @@
-# 👋 Olá, eu sou Ivan Jacques
+<h1 align="center">Hi 👋, I'm Ivan Jacques</h1>
 
-🚀 Desenvolvedor Full Stack com experiência criando sistemas web completos, SaaS, automações e interfaces modernas.
+<h3 align="center">
+Full Stack Developer | React • Vue • Node.js
+</h3>
 
-Tenho foco principal em desenvolvimento Front-End com **React.js e Vue.js**, criando aplicações escaláveis, responsivas e com ótima experiência de usuário.
-
-Também atuo no Back-End desenvolvendo APIs, integrações e automações utilizando **Node.js**, bancos relacionais e serviços em nuvem.
-
----
-
-## 💻 Tecnologias
-
-### Front-End
-- React.js
-- Vue.js
-- JavaScript / TypeScript
-- HTML5 / CSS3
-- Bootstrap / Tailwind
-- UI/UX
-- Responsividade
-- Three.js
-- SVG Interativo
-
-### Back-End
-- Node.js
-- Express.js
-- APIs REST
-- Prisma ORM
-- MySQL
-- PostgreSQL
-- Firebase
-
-### Ferramentas & DevOps
-- Git / GitHub
-- Docker
-- Linux
-- Oracle Cloud
-- VPS
-- Nginx
-- PM2
-
-### Outros conhecimentos
-- Web Scraping
-- Puppeteer
-- Python
-- Automação de processos
-- Integração com APIs
-- Inteligência Artificial
+<p align="center">
+Building SaaS platforms, modern interfaces, automations and 3D web experiences 🚀
+</p>
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 About me
 
-## 🏫 Sistema SaaS de Gestão Educacional
+💻 Full Stack Developer focused on modern web applications
 
-Sistema completo utilizado por escolas de idiomas.
+⚡ Experience building real-world projects:
+- SaaS platforms
+- Educational systems
+- CRM solutions
+- 3D visualization systems
+- Automation tools
 
-Funcionalidades:
-
-- Gestão de alunos
-- Gestão de professores
-- Cursos e materiais
-- PDFs e vídeos
-- Chamadas
-- Agenda
-- Financeiro
-- Controle administrativo
-
-Tecnologias:
-
-React • Node.js • MySQL • APIs REST
+🎯 Focus:
+React • Vue • Node.js • UI/UX • Performance
 
 ---
 
-## 🌾 Sistema de Termometria e Silos 3D
+## 🛠️ Tech Stack
 
-Sistema para monitoramento e visualização de estruturas agrícolas.
+<p align="center">
 
-Desenvolvimento de:
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,typescript,javascript,html,css,bootstrap,tailwind,threejs,python,mysql,postgres,docker,git,linux" />
 
-- Interface de termometria
-- Visualização dinâmica de sensores
-- Modelagem SVG
-- Renderização 3D
-- Mapas interativos
-- Dashboards
-
-Tecnologias:
-
-React • Vue.js • Three.js • SVG • APIs
+</p>
 
 ---
 
-## 🤖 Automações e Inteligência Artificial
+## 📊 GitHub Analytics
 
-Projetos envolvendo:
+<p align="center">
 
-- Automação de processos
-- Análise inteligente de dados
-- Integrações com IA
-- Agentes inteligentes
-- Sistemas personalizados
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Tecnologias:
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Node.js • Python • APIs • IA
+</p>
 
 ---
 
-## 🌐 Desenvolvimento Web
+## 🔥 Contributions
 
-Criação de:
+<p align="center">
 
-- Landing Pages
-- Sistemas administrativos
-- CRMs
-- Dashboards
-- Plataformas SaaS
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true"/>
 
-Com foco em:
-
-✔ Performance  
-✔ Experiência do usuário  
-✔ Código organizado  
-✔ Interfaces modernas  
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Ivan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=Ivan-Jacques-da-Silva&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
----
-
-# 📫 Contato
-
-LinkedIn:
-https://www.linkedin.com/in/ivan-jacques/
-
-GitHub:
-https://github.com/Ivan-Jacques-da-Silva/
+</p>
 
 ---
 
-💡 Sempre buscando criar soluções que transformam ideias em sistemas reais.
+## 🚀 Featured Experience
+
+### 🌾 3D & SVG Systems
+
+Interactive industrial solutions using:
+
+`React` `Vue` `Three.js` `SVG` `APIs`
+
+### 🏫 SaaS Platforms
+
+Complete management systems:
+
+`Node.js` `MySQL` `PostgreSQL` `Cloud`
+
+### 🤖 Automation
+
+Smart solutions:
+
+`Python` `Puppeteer` `AI Integration`
+
+---
+
+<p align="center">
+
+"Code is not just logic. It's the bridge between ideas and reality."
+
+</p>
