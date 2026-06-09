@@ -5,12 +5,12 @@ Desenvolvedor Full Stack | React • Vue • Node.js
 </h3>
 
 <p align="center">
-Criando SaaS, sistemas web, automações, dashboards e experiências interativas em 3D 🚀
+Desenvolvimento de SaaS, sistemas web, automações, dashboards e soluções interativas 2D/3D 🚀
 </p>
 
 ---
 
-## 🚀 Visão rápida
+# 🚀 Tecnologias e Experiência
 
 <table>
 <tr>
@@ -23,6 +23,8 @@ React.js
 Vue.js  
 TypeScript  
 JavaScript  
+HTML5  
+CSS3  
 Tailwind CSS  
 Bootstrap  
 UI/UX  
@@ -42,28 +44,30 @@ Prisma ORM
 Drizzle ORM  
 MySQL  
 PostgreSQL  
+Integrações  
 
 </td>
 
 
 <td width="25%">
 
-### 🧠 Experiência
+### 🧠 Sistemas
 
 SaaS  
 CRM  
+ERP  
 Dashboards  
-Sistemas 3D  
+Sistemas Web  
 Automações  
-Integrações  
 IA  
+APIs externas  
 
 </td>
 
 
 <td width="25%">
 
-### 🚀 Extras
+### 🛠️ Ferramentas
 
 Three.js  
 SVG Interativo  
@@ -71,39 +75,33 @@ Python
 Puppeteer  
 Playwright  
 Docker  
+Git/GitHub  
 Linux VPS  
 
 </td>
 
+
 </tr>
 </table>
 
-
----
-
-## 🛠️ Tecnologias
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Drizzle ORM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge"/>
 
@@ -121,21 +119,22 @@ Linux VPS
 
 <td width="25%">
 
-## 🏫 SaaS Educacional
+### 🏫 SaaS Educacional
 
-Sistema completo para escolas.
+Sistema completo para gestão escolar.
 
 ✔ Gestão de alunos  
 ✔ Professores  
-✔ Cursos  
-✔ Materiais  
+✔ Cursos e materiais  
+✔ Chamadas  
+✔ Agenda  
 ✔ Financeiro  
 
-**Tecnologias**
+**Stack**
 
 React  
 Node.js  
-MySQL  
+PostgreSQL  
 
 🔗 URL em breve
 
@@ -144,20 +143,21 @@ MySQL
 
 <td width="25%">
 
-## 🏢 Sistema Imobiliário
+### 🏢 Sistema Imobiliário
 
-Plataforma moderna para imóveis.
+Plataforma para gestão e venda de imóveis.
 
-✔ Busca de imóveis  
-✔ Integrações API  
+✔ Busca avançada  
+✔ Integração com APIs  
+✔ Gestão de imóveis  
 ✔ Landing Pages  
 ✔ CRM  
 
-**Tecnologias**
+**Stack**
 
 React  
 Node.js  
-APIs  
+PostgreSQL  
 
 🔗 URL em breve
 
@@ -166,110 +166,50 @@ APIs
 
 <td width="25%">
 
-## 🌾 Termometria 3D
+### 🌾 Termometria 2D/3D
 
-Sistema industrial interativo.
+Sistema industrial para silos e armazéns.
 
+✔ Modelador online  
+✔ Criação de estruturas  
 ✔ Sensores  
-✔ SVG Dinâmico  
-✔ Modelagem 3D  
-✔ Dashboard  
+✔ SVG dinâmico  
+✔ Visualização 3D  
+✔ Dashboards  
 
-**Tecnologias**
+**Stack**
 
 React  
-Vue  
+Vue.js  
 Three.js  
+SVG  
 
 </td>
 
 
 <td width="25%">
 
-## 🤖 Automações
+### 🤖 Automações
 
-Automação de processos.
+Automação de processos e dados.
 
 ✔ Web Scraping  
-✔ Robôs  
-✔ APIs  
-✔ Inteligência Artificial  
+✔ Robôs inteligentes  
+✔ Integrações API  
+✔ Processamento de dados  
+✔ IA  
 
-**Tecnologias**
+**Stack**
 
 Node.js  
 Python  
 Puppeteer  
+Playwright  
 
 </td>
 
 
 </tr>
-</table>
-
-
----
-
-# 🔄 Fluxo de desenvolvimento
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-## 🔎 Análise
-
-Regras de negócio
-
-Arquitetura
-
-Planejamento
-
-</td>
-
-
-<td align="center" width="25%">
-
-## 🎨 Interface
-
-UI/UX
-
-Responsividade
-
-Experiência usuário
-
-</td>
-
-
-<td align="center" width="25%">
-
-## 💻 Desenvolvimento
-
-Front-End
-
-Back-End
-
-Banco de dados
-
-</td>
-
-
-<td align="center" width="25%">
-
-## 🚀 Entrega
-
-Deploy
-
-Servidor
-
-Melhorias
-
-</td>
-
-
-</tr>
-
 </table>
 
 
@@ -279,7 +219,6 @@ Melhorias
 
 
 <table>
-
 <tr>
 
 
@@ -289,7 +228,7 @@ Melhorias
 
 ### CRM Vision
 
-Sistema de gestão e relacionamento.
+Sistema de relacionamento, clientes e processos comerciais.
 
 </td>
 
@@ -300,7 +239,7 @@ Sistema de gestão e relacionamento.
 
 ### Dashboard Financeiro
 
-Controle financeiro inteligente.
+Controle financeiro com análise inteligente de dados.
 
 </td>
 
@@ -309,16 +248,14 @@ Controle financeiro inteligente.
 
 <img src="URL_IMAGEM_PROJETO"/>
 
-### Sistemas Web
+### Sistemas Personalizados
 
-Projetos personalizados.
+Soluções sob medida para diferentes segmentos.
 
 </td>
 
 
 </tr>
-
-
 </table>
 
 
@@ -339,18 +276,6 @@ Projetos personalizados.
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🏆 Conquistas
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ivan-Jacques-da-Silva&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
 
