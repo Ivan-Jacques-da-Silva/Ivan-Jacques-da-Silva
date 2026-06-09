@@ -12,7 +12,7 @@ Desenvolvimento de SaaS, sistemas web, automações, dashboards e soluções int
 
 # 🚀 Tecnologias e Experiência
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%">
@@ -83,30 +83,6 @@ Linux VPS
 
 </tr>
 </table>
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge"/>
-
-</p>
-
 
 ---
 
