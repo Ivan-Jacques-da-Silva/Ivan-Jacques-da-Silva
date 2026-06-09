@@ -14,57 +14,70 @@ Criando SaaS, sistemas web, automações, dashboards e experiências interativas
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="25%">
 
 ### 💻 Front-End
-- React.js
-- Vue.js
-- TypeScript
-- JavaScript
-- Bootstrap / Tailwind
-- UI/UX
-- Responsividade
+
+React.js  
+Vue.js  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+Bootstrap  
+UI/UX  
+Responsividade  
 
 </td>
 
-<td width="50%">
+
+<td width="25%">
 
 ### ⚙️ Back-End
-- Node.js
-- Express.js
-- APIs REST
-- Prisma ORM
-- MySQL / PostgreSQL
-- Firebase
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Especialidades
-- SaaS
-- CRM
-- Dashboards
-- Automações
-- Integrações com IA
+Node.js  
+Express.js  
+APIs REST  
+Prisma ORM  
+Drizzle ORM  
+MySQL  
+PostgreSQL  
 
 </td>
 
-<td width="50%">
+
+<td width="25%">
+
+### 🧠 Experiência
+
+SaaS  
+CRM  
+Dashboards  
+Sistemas 3D  
+Automações  
+Integrações  
+IA  
+
+</td>
+
+
+<td width="25%">
 
 ### 🚀 Extras
-- Three.js
-- SVG Interativo
-- Python
-- Puppeteer
-- Docker
-- Linux / VPS
+
+Three.js  
+SVG Interativo  
+Python  
+Puppeteer  
+Playwright  
+Docker  
+Linux VPS  
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
@@ -72,71 +85,124 @@ Criando SaaS, sistemas web, automações, dashboards e experiências interativas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,typescript,javascript,html,css,bootstrap,tailwind,threejs,python,mysql,postgres,docker,git,linux" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Drizzle ORM-000000?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge"/>
 
 </p>
 
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
+
 
 <table>
 <tr>
 
-<td width="33%">
 
-### 🏫 SaaS Educacional
+<td width="25%">
+
+## 🏫 SaaS Educacional
 
 Sistema completo para escolas.
 
-✔ Alunos  
+✔ Gestão de alunos  
 ✔ Professores  
 ✔ Cursos  
+✔ Materiais  
 ✔ Financeiro  
-✔ Agenda  
 
-**Stack**
+**Tecnologias**
 
-React • Node.js • MySQL
+React  
+Node.js  
+MySQL  
+
+🔗 URL em breve
 
 </td>
 
 
-<td width="33%">
+<td width="25%">
 
-### 🌾 Termometria 3D
+## 🏢 Sistema Imobiliário
 
-Sistema industrial com sensores.
+Plataforma moderna para imóveis.
 
+✔ Busca de imóveis  
+✔ Integrações API  
+✔ Landing Pages  
+✔ CRM  
+
+**Tecnologias**
+
+React  
+Node.js  
+APIs  
+
+🔗 URL em breve
+
+</td>
+
+
+<td width="25%">
+
+## 🌾 Termometria 3D
+
+Sistema industrial interativo.
+
+✔ Sensores  
 ✔ SVG Dinâmico  
-✔ Modelo 3D  
-✔ Dashboards  
-✔ Dados em tempo real  
+✔ Modelagem 3D  
+✔ Dashboard  
 
-**Stack**
+**Tecnologias**
 
-Vue • React • Three.js
+React  
+Vue  
+Three.js  
 
 </td>
 
 
-<td width="33%">
+<td width="25%">
 
-### 🤖 Automações
+## 🤖 Automações
 
-Soluções inteligentes.
+Automação de processos.
 
 ✔ Web Scraping  
+✔ Robôs  
 ✔ APIs  
-✔ IA  
-✔ Processos automáticos  
+✔ Inteligência Artificial  
 
-**Stack**
+**Tecnologias**
 
-Node • Python • Puppeteer
+Node.js  
+Python  
+Puppeteer  
 
 </td>
+
 
 </tr>
 </table>
@@ -144,28 +210,64 @@ Node • Python • Puppeteer
 
 ---
 
-## 🔄 Fluxo de desenvolvimento
+# 🔄 Fluxo de desenvolvimento
 
 <table>
 
 <tr>
-<td>🔎 <b>Análise</b></td>
-<td>Entendimento da regra de negócio e arquitetura</td>
-</tr>
 
-<tr>
-<td>🎨 <b>Interface</b></td>
-<td>Criação de telas modernas e responsivas</td>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td>💻 <b>Desenvolvimento</b></td>
-<td>Front-End, Back-End, Banco de dados e APIs</td>
-</tr>
+## 🔎 Análise
 
-<tr>
-<td>🚀 <b>Deploy</b></td>
-<td>Publicação, servidores e melhorias contínuas</td>
+Regras de negócio
+
+Arquitetura
+
+Planejamento
+
+</td>
+
+
+<td align="center" width="25%">
+
+## 🎨 Interface
+
+UI/UX
+
+Responsividade
+
+Experiência usuário
+
+</td>
+
+
+<td align="center" width="25%">
+
+## 💻 Desenvolvimento
+
+Front-End
+
+Back-End
+
+Banco de dados
+
+</td>
+
+
+<td align="center" width="25%">
+
+## 🚀 Entrega
+
+Deploy
+
+Servidor
+
+Melhorias
+
+</td>
+
+
 </tr>
 
 </table>
@@ -173,13 +275,63 @@ Node • Python • Puppeteer
 
 ---
 
-## 📊 Estatísticas GitHub
+# 🖥️ Outros projetos
+
+
+<table>
+
+<tr>
+
+
+<td width="33%" align="center">
+
+<img src="URL_IMAGEM_PROJETO"/>
+
+### CRM Vision
+
+Sistema de gestão e relacionamento.
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="URL_IMAGEM_PROJETO"/>
+
+### Dashboard Financeiro
+
+Controle financeiro inteligente.
+
+</td>
+
+
+<td width="33%" align="center">
+
+<img src="URL_IMAGEM_PROJETO"/>
+
+### Sistemas Web
+
+Projetos personalizados.
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+# 📊 Estatísticas GitHub
+
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ivan-Jacques-da-Silva&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Jacques-da-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -193,7 +345,8 @@ Node • Python • Puppeteer
 
 ---
 
-## 🏆 Conquistas
+# 🏆 Conquistas
+
 
 <p align="center">
 
@@ -206,6 +359,6 @@ Node • Python • Puppeteer
 
 <p align="center">
 
-💡 Transformando ideias em sistemas reais.
+💡 Transformando ideias em sistemas reais através de tecnologia.
 
 </p>
