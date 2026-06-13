@@ -12,11 +12,10 @@ Desenvolvimento de SaaS, sistemas web, automações, dashboards e soluções int
 
 # 🚀 Tecnologias e Experiência
 
-<table>
+<table width="100%">
 <tr>
 
-
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 💻 Front-End
 
@@ -28,13 +27,13 @@ HTML5
 CSS3  
 Tailwind CSS  
 Bootstrap  
+BootstrapVue  
 UI/UX  
 Responsividade  
 
 </td>
 
-
-<td width="25%">
+<td width="25%" valign="top">
 
 ### ⚙️ Back-End
 
@@ -45,12 +44,12 @@ Prisma ORM
 Drizzle ORM  
 MySQL  
 PostgreSQL  
+Autenticação JWT  
 Integrações  
 
 </td>
 
-
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🧠 Sistemas
 
@@ -60,13 +59,13 @@ ERP
 Dashboards  
 Sistemas Web  
 Automações  
-IA  
+Inteligência Artificial  
 APIs externas  
+Multi Tenant  
 
 </td>
 
-
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🛠️ Ferramentas
 
@@ -78,23 +77,24 @@ Playwright
 Docker  
 Git/GitHub  
 Linux VPS  
+PM2 / Nginx  
 
 </td>
 
-
 </tr>
 </table>
+
 
 ---
 
 # 📌 Projetos em destaque
 
 
-<table>
+<table width="100%">
 <tr>
 
 
-<td width="25%">
+<td width="25%" valign="top">
 
 ### 🏫 SaaS Educacional
 
@@ -113,20 +113,19 @@ React
 Node.js  
 PostgreSQL  
 
-🔗 URL em breve
-
 </td>
 
 
-<td width="25%">
+
+<td width="25%" valign="top">
 
 ### 🏢 Sistema Imobiliário
 
 Plataforma para gestão e venda de imóveis.
 
 ✔ Busca avançada  
-✔ Integração com APIs  
 ✔ Gestão de imóveis  
+✔ Clientes e leads  
 ✔ Landing Pages  
 ✔ CRM  
 
@@ -136,12 +135,11 @@ React
 Node.js  
 PostgreSQL  
 
-🔗 URL em breve
-
 </td>
 
 
-<td width="25%">
+
+<td width="25%" valign="top">
 
 ### 🌾 Termometria 2D/3D
 
@@ -149,7 +147,6 @@ Sistema industrial para silos e armazéns.
 
 ✔ Modelador online  
 ✔ Criação de estruturas  
-✔ Sensores  
 ✔ SVG dinâmico  
 ✔ Visualização 3D  
 ✔ Dashboards  
@@ -164,7 +161,8 @@ SVG
 </td>
 
 
-<td width="25%">
+
+<td width="25%" valign="top">
 
 ### 🤖 Automações
 
@@ -192,48 +190,71 @@ Playwright
 
 ---
 
-# 🖥️ Outros projetos
+# 🖥️ Sistemas Desenvolvidos
 
 
-<table>
+<table width="100%">
 <tr>
 
 
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
-<img src="URL_IMAGEM_PROJETO"/>
+<img width="100%" src="https://crm.vision.dev.br/mockup.png"/>
 
 ### CRM Vision
 
-Sistema de relacionamento, clientes e processos comerciais.
+Sistema de relacionamento com clientes, funil comercial, tarefas e vendas.
+
+**React • Node.js • PostgreSQL**
 
 </td>
 
 
-<td width="33%" align="center">
 
-<img src="URL_IMAGEM_PROJETO"/>
+<td width="25%" align="center" valign="top">
 
-### Dashboard Financeiro
+<img width="100%" src="https://jirehfinance.vision.dev.br/mockup.png"/>
 
-Controle financeiro com análise inteligente de dados.
+### JirehFinance
+
+Controle financeiro com dashboards, inteligência artificial e análise de gastos.
+
+**React • Node.js • IA**
 
 </td>
 
 
-<td width="33%" align="center">
 
-<img src="URL_IMAGEM_PROJETO"/>
+<td width="25%" align="center" valign="top">
 
-### Sistemas Personalizados
+<img width="100%" src="https://erp.vision.dev.br/mockup.png"/>
 
-Soluções sob medida para diferentes segmentos.
+### ERP Escola de Idiomas
+
+Gestão completa de escolas, alunos, professores, cursos e financeiro.
+
+**React • Node.js • PostgreSQL**
+
+</td>
+
+
+
+<td width="25%" align="center" valign="top">
+
+<img width="100%" src="https://imobiliariaerp.vision.dev.br/mockup.png"/>
+
+### ERP Imobiliário
+
+Gestão de imóveis, clientes, leads, contratos e administração imobiliária.
+
+**React • Node.js • PostgreSQL**
 
 </td>
 
 
 </tr>
 </table>
+
 
 
 ---
