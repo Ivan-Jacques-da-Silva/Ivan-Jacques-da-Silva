@@ -12,10 +12,10 @@ Desenvolvimento de SaaS, sistemas web, automações, dashboards e soluções int
 
 # 🚀 Tecnologias e Experiência
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="300px" valign="top">
 
 ### 💻 Front-End
 
@@ -33,7 +33,7 @@ Responsividade
 
 </td>
 
-<td width="25%" valign="top">
+<td width="300px" valign="top">
 
 ### ⚙️ Back-End
 
@@ -49,7 +49,7 @@ Integrações
 
 </td>
 
-<td width="25%" valign="top">
+<td width="300px" valign="top">
 
 ### 🧠 Sistemas
 
@@ -59,13 +59,13 @@ ERP
 Dashboards  
 Sistemas Web  
 Automações  
-Inteligência Artificial  
+IA  
 APIs externas  
 Multi Tenant  
 
 </td>
 
-<td width="25%" valign="top">
+<td width="300px" valign="top">
 
 ### 🛠️ Ferramentas
 
