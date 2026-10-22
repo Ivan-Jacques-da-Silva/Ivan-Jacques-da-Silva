@@ -275,6 +275,8 @@ Gestão de imóveis, clientes, leads, contratos e administração imobiliária.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ivan-Jacques-da-Silva&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 
